@@ -26,5 +26,5 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
    # Please visit the deployed project at:
-   
+   https://purnagurung903.github.io/generatepassword/
     
